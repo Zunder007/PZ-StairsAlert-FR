@@ -1,0 +1,8 @@
+Sandbox_FR = {
+    Sandbox_StairsAlert = "Alerte escaliers",
+    Sandbox_StairsAlert_DisplayZombieAmount = "Affichage de la quantité de zombie",
+    Sandbox_StairsAlert_DisplayZombieAmount_tooltip = "Détermine si les personnages expriment via une phrase le nombre de zombies qu'ils voient.",
+
+	Sandbox_StairsAlert_DisplayMarker = "Marqueur d'affichage",
+	Sandbox_StairsAlert_DisplayMarker_tooltip = "Affiche un symbole de marqueur 2D au sol, à l'endroit où le zombie est censé se trouver à l'étage.",
+}
