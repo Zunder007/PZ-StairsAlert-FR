@@ -1,0 +1,4 @@
+IGUI_FR = {
+    IGUI_Stairs_Alert = "Je vois des infectés à l'étage !",
+	IGUI_Stairs_Alert_Extra = "# d'entre eux",
+}
